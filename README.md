@@ -4,14 +4,13 @@ Aplikasi daftar tugas (to-do list) sederhana berbasis web yang dibangun mengguna
 
 ## Fitur
 
-- **Tambah tugas (Create):**
-- **Lihat daftar tugas (Read):**
-- **Edit tugas (Update):**
-- **Tandai selesai:**
-- **Hapus tugas (Delete):**
-- **Pilih dengan ceklis:**
-- **Mass Action:**
-- **Generate Data dummy:**
+- **Tambah tugas (Create)**
+- **Lihat daftar tugas (Read)**
+- **Edit tugas (Update)**
+- **Tandai selesai**
+- **Hapus tugas (Delete)**
+- **Mass Action**
+- **Generate Data dummy**
 
 ## Struktur Folder
 
@@ -32,4 +31,4 @@ uji/
 
 ## Kontributor
 
-- # Mochamad Fajar Nurfauzi
+- # Mochamad Fajar Nurfauzi - https://github.com/Nurfauzi12/uji-serti
