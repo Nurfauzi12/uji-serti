@@ -1,0 +1,25 @@
+.todo-item.done .todo-text {
+  text-decoration: line-through;
+  color: #6c757d;
+}
+
+.todo-item .todo-text {
+  cursor: pointer;
+  word-break: break-word;
+}
+
+.todo-item .todo-actions {
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.todo-item:hover .todo-actions,
+.todo-item:focus-within .todo-actions {
+  opacity: 1;
+}
+
+@media (hover: none) {
+  .todo-item .todo-actions {
+    opacity: 1;
+  }
+}
