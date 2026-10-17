@@ -1,13 +1,16 @@
+/* Tugas yang sudah selesai: teks dicoret dan diredupkan */
 .todo-item.done .todo-text {
   text-decoration: line-through;
   color: #6c757d;
 }
 
+/* Teks tugas bisa diklik (toggle selesai) dan tidak meluber jika panjang */
 .todo-item .todo-text {
   cursor: pointer;
   word-break: break-word;
 }
 
+/* Tombol edit/hapus disembunyikan dulu, muncul saat item di-hover */
 .todo-item .todo-actions {
   opacity: 0;
   transition: opacity 0.15s ease;
@@ -16,10 +19,4 @@
 .todo-item:hover .todo-actions,
 .todo-item:focus-within .todo-actions {
   opacity: 1;
-}
-
-@media (hover: none) {
-  .todo-item .todo-actions {
-    opacity: 1;
-  }
 }
