@@ -31,4 +31,4 @@ uji/
 
 ## Kontributor
 
-- # Mochamad Fajar Nurfauzi - https://github.com/Nurfauzi12/uji-serti
+Mochamad Fajar Nurfauzi - https://github.com/Nurfauzi12/uji-serti
